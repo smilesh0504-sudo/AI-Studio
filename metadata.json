@@ -1,0 +1,5 @@
+{
+  "name": "Spendy: AI Persona Analyzer",
+  "description": "Upload your spending data via text, files, or images to get an AI-powered analysis of your spending persona. This app uses Gemini to understand transaction images and generate custom icons for a beautiful and insightful experience.",
+  "requestFramePermissions": []
+}
